@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\dac.STUDENTSDC\Desktop\240840120121\os&sdm\Question03\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4114742779.index
+2761867396.index
